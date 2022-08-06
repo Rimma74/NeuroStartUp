@@ -1,4 +1,4 @@
-#PLAN FOR THE DAY
+# PLAN FOR THE DAY
 -10-00 breakfast
 -11-00 visit to the museum
 -13-00 dinner
